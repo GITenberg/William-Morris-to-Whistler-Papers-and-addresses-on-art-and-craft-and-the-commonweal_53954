@@ -1,0 +1,36 @@
+_repo: William-Morris-to-Whistler-Papers-and-addresses-on-art-and-craft-and-the-commonweal_53954
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Crane, Walter
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '7195'
+    url: http://www.gutenberg.org/2009/agents/7195
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
+description: '"With illustrations from drawings by the author & other sources"'
+gutenberg_issued: '2017-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53954'
+  lccn: '19008369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NK'
+- !lcsh 'Art'
+- !lcsh 'Arts and crafts movement -- Great Britain'
+- GITenberg
+tableOfContents: William Morris and his work -- The English revival in decorative
+  art -- The socialist ideal as a new inspiration in art -- On the study and practice
+  of art -- On some of the arts and crafts allied to architecture -- Notes on colour
+  embroidery and its treatment -- Notes on early Italian gesso work -- Notes on the
+  treatment of animals in art -- Modern aspects of life and the sense of beauty --
+  A short survey of the art of the nineteenth century -- Art and the commonweal --
+  The apotheosis of "The Butterfly."
+title: 'William Morris to Whistler
+
+  Papers and addresses on art and craft and the commonweal.'
+url: http://www.gutenberg.org/ebooks/53954
