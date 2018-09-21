@@ -1,5 +1,8 @@
 _repo: William-Morris-to-Whistler-Papers-and-addresses-on-art-and-craft-and-the-commonweal_53954
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53954-h/images/cover.jpg
 creator:
   author:
     agent_name: Crane, Walter
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7195
     wikipedia: http://en.wikipedia.org/wiki/Walter_Crane
 description: '"With illustrations from drawings by the author & other sources"'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53954#William-Morris-to-Whistler-Papers-and-addresses-on-art-and-craft-and-the-commonweal
 gutenberg_issued: '2017-01-13'
 gutenberg_type: Text
 identifiers:
